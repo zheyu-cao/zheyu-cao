@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Deep Learning.
+- 🌐 I have a personal portfolio site, check out [zheyucao.com](https://zheyucao.com)
 - 📫 Ask me anything through hi@zheyucao.com
 - ✨ This account is for academic use. For my personal/open-source projects, see [@angine04](https://github.com/angine04)
 
